@@ -1,0 +1,12 @@
+body
+{
+    background:red;
+}
+.div1
+{
+background:white;
+float: none;
+padding: 15px;
+border-radius:20px;
+width: 360px;
+}
